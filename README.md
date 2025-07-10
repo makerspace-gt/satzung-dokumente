@@ -2,7 +2,7 @@
 
 - [Satzung](Satzung.md)
 - [Mitgliedsantrag](Mitgliedsantrag.pdf)
-- [Freistellungsbescheid](Freistellungsbescheid.pdf)
+- [Freistellungsbescheid](Freistellungsbescheide)
 - [Maschinenstunden](Maschinenstunden.ott)  
   Dokument zur Erfassung der Nutzungskosten
 - [Ausleihe Antrag](Ausleihe.odt)  
